@@ -13,8 +13,7 @@
 
 ## Contacto
 
-- **Correo Electrónico:** tuemail@example.com
+- **Correo Electrónico:** rodrigooliverman12@gmail.com
 - **LinkedIn:** [https://www.linkedin.com/in/rodrigo-olivera-4b1407219/)
-- **GitHub:** [https://www.linkedin.com/in/rodrigo-olivera-4b1407219/)
 
 ¡Estoy emocionado por la oportunidad de contribuir a proyectos desafiantes y seguir aprendiendo en el proceso! Siempre estoy abierto a nuevas colaboraciones y desafíos, así que no dudes en ponerse en contacto conmigo para discutir cómo puedo ayudar en tu próximo proyecto.

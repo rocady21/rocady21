@@ -2,7 +2,7 @@
 # console.log("Hola Mundo")
 
 # Resumen
-¡Hola! Soy [Tu Nombre], un apasionado desarrollador web. Mi enfoque principal es garantizar una experiencia de usuario excepcional y un rendimiento óptimo del sitio. Tengo ampliops conocimientos y me gustan muchos los desafios, adaptarme a nuevas tecnologias y hacer diseños Inovadores :)
+¡Hola! Soy Rodrigo, un apasionado desarrollador web. Mi enfoque principal es garantizar una experiencia de usuario excepcional y un rendimiento óptimo del sitio. Tengo ampliops conocimientos y me gustan muchos los desafios, adaptarme a nuevas tecnologias y hacer diseños Inovadores :)
   
 ## Habilidades Técnicas
 

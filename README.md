@@ -6,9 +6,11 @@
   
 ## Habilidades Técnicas
 
-- **Lenguajes de Programación:** HTML, CSS, JavaScript, Python
-- **Frameworks y Librerías:** React.js, Node.js, Express.js, Bootstrap,Tailwind,Flask,SqlAlchemy
-- **Bases de Datos:** MySQL, MongoDB,SQLServer
+- **Lenguajes de Programación:** JavaScript, Typescript, Python, C++
+- **Lenguaje de Maquetado: HTML
+- **Lenguaje de Diseño: Boostrap, Tailwind, CSS, Bulma, ChakraUI
+- **Frameworks y Librerías:** React.js, NextJs Node.js, Nest, Express.js ,Flask, Django ,SqlAlchemy, Typeorm, React Nativem,
+- **Bases de Datos:** MySQL, MongoDB, SQLServer, PostgreSql
 - **Metodologías:** Desarrollo Ágil, Scrum
 
 ## Contacto
